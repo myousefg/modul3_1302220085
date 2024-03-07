@@ -1,0 +1,10 @@
+C:\1302220085_MOD3_JURNAL_FYI\MOD3_Kalkulator\MOD3_Kalkulator\obj\Debug\MOD3_Kalkulator.csproj.AssemblyReference.cache
+C:\1302220085_MOD3_JURNAL_FYI\MOD3_Kalkulator\MOD3_Kalkulator\obj\Debug\MOD3_Kalkulator.Form1.resources
+C:\1302220085_MOD3_JURNAL_FYI\MOD3_Kalkulator\MOD3_Kalkulator\obj\Debug\MOD3_Kalkulator.Properties.Resources.resources
+C:\1302220085_MOD3_JURNAL_FYI\MOD3_Kalkulator\MOD3_Kalkulator\obj\Debug\MOD3_Kalkulator.csproj.GenerateResource.cache
+C:\1302220085_MOD3_JURNAL_FYI\MOD3_Kalkulator\MOD3_Kalkulator\obj\Debug\MOD3_Kalkulator.csproj.CoreCompileInputs.cache
+C:\1302220085_MOD3_JURNAL_FYI\MOD3_Kalkulator\MOD3_Kalkulator\bin\Debug\MOD3_Kalkulator.exe.config
+C:\1302220085_MOD3_JURNAL_FYI\MOD3_Kalkulator\MOD3_Kalkulator\bin\Debug\MOD3_Kalkulator.exe
+C:\1302220085_MOD3_JURNAL_FYI\MOD3_Kalkulator\MOD3_Kalkulator\bin\Debug\MOD3_Kalkulator.pdb
+C:\1302220085_MOD3_JURNAL_FYI\MOD3_Kalkulator\MOD3_Kalkulator\obj\Debug\MOD3_Kalkulator.exe
+C:\1302220085_MOD3_JURNAL_FYI\MOD3_Kalkulator\MOD3_Kalkulator\obj\Debug\MOD3_Kalkulator.pdb
